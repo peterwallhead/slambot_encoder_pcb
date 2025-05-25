@@ -1753,7 +1753,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6056950a-97c1-470d-8987-de89829d61e1)
     )
-    (fp_text value "10 uf" (at 0 1.85) (layer "F.Fab")
+    (fp_text value "1 uf" (at 0 1.85) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b2eb6a1a-4970-44f9-89f7-064e3d9fdeda)
     )
